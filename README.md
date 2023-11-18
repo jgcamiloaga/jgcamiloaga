@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Johann</h1>
 
-![MasterHead](https://pin.it/6HL7kFt)
+![MasterHead](https://i.pinimg.com/originals/aa/59/d1/aa59d139b93dde70ff207187c9f1d8bd.gif)
 
 <h3 align="center">A passionate Full Stack developer from Peru</h3>
 
