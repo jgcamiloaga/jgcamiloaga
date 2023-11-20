@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Johann</h1>
 
-![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif&tbnid=M2smYocOcR_iGM&vet=10CA0QxiAoBmoXChMIiImW2KzRggMVAAAAAB0AAAAAEA4..i&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&w=1900&h=684&itg=1&q=gif%20programador&ved=0CA0QxiAoBmoXChMIiImW2KzRggMVAAAAAB0AAAAAEA4)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrf9SIondFTDW7GszOj0Pnz1IDkzTRfltLVwTFOYtl1xnix2D9g5AsudW32_2v1VyL6Cw&usqp=CAU)
 
 <h3 align="center">A passionate Full Stack developer from Peru</h3>
 
