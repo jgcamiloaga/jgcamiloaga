@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Johann</h1>
 
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrf9SIondFTDW7GszOj0Pnz1IDkzTRfltLVwTFOYtl1xnix2D9g5AsudW32_2v1VyL6Cw&usqp=CAU)
+![MasterHead](https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)
 
 <h3 align="center">A passionate Full Stack developer from Peru</h3>
 
