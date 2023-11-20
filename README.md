@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Full Stack developer from Peru</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgcamiloaga&label=Profile%20views&color=0e75b6&style=flat" alt="jgcamiloaga" /> </p>
 
