@@ -31,6 +31,6 @@
 <h1><p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b font-size="">Git Activeness</b></h1></i></p>
 
-<p><img align="left" width="300" height="185" src="https://github-readme-stats.vercel.app/api?username=jgcamiloaga&show_icons=true&theme=dark"/></p>
-<p>&nbsp;<img align="right" width="300" height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=jgcamiloaga&theme=dark"/></p>
+<p><img align="left" width="350" height="185" src="https://github-readme-stats.vercel.app/api?username=jgcamiloaga&show_icons=true&theme=dark"/></p>
+<p>&nbsp;<img align="right" width="350" height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=jgcamiloaga&theme=dark"/></p>
 <br>
