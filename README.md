@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Johann</h1>
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQE9x0B-BLeUvw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725314601805?e=1740009600&v=beta&t=a9V6rSlmKJxCTcVjoTIl9QOuWOIOkA7w-mU1t6lJjs0" />
 
 <h3 align="center">A passionate Front-End developer from Peru</h3>
 
-<img align="right" alt="Coding" width="380" height="370" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+<img align="right" alt="Coding" width="380" height="370" src="https://kaalratribusiness.com/public/images/misc/software-development-in%20kaalratribusiness.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgcamiloaga&label=Profile%20views&color=0e75b6&style=flat" alt="jgcamiloaga" /> </p>
 
