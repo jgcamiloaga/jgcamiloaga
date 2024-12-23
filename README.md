@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Johann</h1>
 
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQE9x0B-BLeUvw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725314601805?e=1740009600&v=beta&t=a9V6rSlmKJxCTcVjoTIl9QOuWOIOkA7w-mU1t6lJjs0" />
+<img src="https://i.postimg.cc/FKKsf1bB/Banner.png" />
 
 <h3 align="center">A passionate Front-End developer from Peru</h3>
 
