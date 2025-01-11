@@ -96,12 +96,14 @@
     </p>
 </h1>
   
-<p>
-    <img align="left" width="400" height="185" src="https://github-readme-stats.vercel.app/api?username=jgcamiloaga&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>
-<p>
-    <img align="right" width="400" height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=jgcamiloaga&theme=dark" alt="GitHub Streak"/>
-</p>
+<div style="overflow: auto;">
+    <p>
+        <img align="left" width="400" height="185" src="https://github-readme-stats.vercel.app/api?username=jgcamiloaga&show_icons=true&theme=dark" alt="GitHub Stats"/>
+    </p>
+    <p>
+        <img align="right" width="400" height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=jgcamiloaga&theme=dark" alt="GitHub Streak"/>
+    </p>
+</div>
 
 <br>
 <br>
