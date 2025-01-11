@@ -23,7 +23,7 @@
 </p>
 
 <!-- Life Motto Section -->
-<h2></h2>
+<h1></h1>
 <br>
 <p align="center">
     <img 
@@ -32,7 +32,7 @@
         style="max-width: 80%; height: auto;" 
     />
 </p>
-<h2></h2>
+<h1></h1>
 
 <!-- Developer Tagline -->
 <h3 align="center">A Passionate Front-End Developer from Peru</h3>
@@ -111,7 +111,7 @@
 <br>
 <br>
 
-<h2></h2>
+<h1></h1>
 
 <!-- Finish Section -->
 <a href="#">
