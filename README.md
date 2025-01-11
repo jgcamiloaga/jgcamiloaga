@@ -8,8 +8,19 @@
     />
 </a>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <!-- About Me Section -->
-<h1>About Me</h1>
+<h1></h1>
 <p>
     My name is <strong>Johann Camiloaga</strong>, but my friends call me <strong>Hann</strong>. I am currently pursuing <em>Systems Engineering</em> at 
     <a href="https://www.utp.edu.pe/" target="_blank">The Technological University of Peru</a>.
