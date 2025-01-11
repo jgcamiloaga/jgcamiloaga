@@ -275,10 +275,10 @@
 
 <div style="overflow: auto;">
     <p>
-        <img align="left" width="45%" height="185" src="https://github-readme-stats.vercel.app/api?username=jgcamiloaga&show_icons=true&theme=dark" alt="GitHub Stats"/>
+        <img align="left" width="48%" height="185px" src="https://github-readme-stats.vercel.app/api?username=jgcamiloaga&show_icons=true&theme=dark" alt="GitHub Stats"/>
     </p>
     <p>
-        <img align="right" width="45%" height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=jgcamiloaga&theme=dark" alt="GitHub Streak"/>
+        <img align="right" width="48%" height="185px" src="https://github-readme-streak-stats.herokuapp.com/?user=jgcamiloaga&theme=dark" alt="GitHub Streak"/>
     </p>
 </div>
 
