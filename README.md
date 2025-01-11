@@ -27,7 +27,7 @@
 <br>
 <p align="center">
     <img 
-        src="https://i.postimg.cc/FKKsf1bB/Banner.png" 
+        src="https://i.postimg.cc/FzWWr9Kd/Banner.png" 
         alt="Life Motto" 
         style="max-width: 80%; height: auto;" 
     />
