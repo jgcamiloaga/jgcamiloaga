@@ -9,7 +9,7 @@
 </a>
 
 <!-- About Me Section -->
-<h2>ﾠ‎</h2>
+<h2>‎<br>‎<br>‎<br>‎<br>‎‎‎<br>‎<br><br>‎<br><br></h2>
 <br>
 <p>
     My name is <strong>Johann Camiloaga</strong>, but my friends call me <strong>Hann</strong>. I am currently pursuing <em>Systems Engineering</em> at 
