@@ -1,16 +1,14 @@
 <a href="#">
     <img 
-        align="left" 
         alt="Welcome" 
         width="100%" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10px; max-width: 100%; height: auto;" 
         src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" 
     />
 </a>
 
 <!-- About Me Section -->
-<h2>‎<br>‎<br>‎<br>‎<br>‎‎‎<br>‎<br><br>‎<br><br></h2>
-<br>
+<hr>
 <p>
     My name is <strong>Johann Camiloaga</strong>, but my friends call me <strong>Hann</strong>. I am currently pursuing <em>Systems Engineering</em> at 
     <a href="https://www.utp.edu.pe/" target="_blank">The Technological University of Peru</a>.
@@ -24,8 +22,7 @@
 </p>
 
 <!-- Life Motto Section -->
-<h1></h1>
-<br>
+<hr>
 <p align="center">
     <img 
         src="https://i.postimg.cc/FzWWr9Kd/Banner.png" 
@@ -33,7 +30,7 @@
         style="max-width: 80%; height: auto;" 
     />
 </p>
-<h1></h1>
+<hr>
 
 <!-- Developer Tagline -->
 <h3 align="center">A Passionate Front-End Developer from Peru</h3>
@@ -89,14 +86,15 @@
 </p>
 
 <!-- Git Activeness Section -->
-<h1></h1>
-<h1>
+<hr>
+<h3>
     <p align="center">
         <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
         &nbsp;<i><b font-size="">Git Activeness</b></i>
     </p>
-</h1>
-  
+</h3>
+<hr>
+
 <div style="overflow: auto;">
     <p>
         <img align="left" width="400" height="185" src="https://github-readme-stats.vercel.app/api?username=jgcamiloaga&show_icons=true&theme=dark" alt="GitHub Stats"/>
@@ -115,7 +113,7 @@
 <br>
 <br>
 
-<h1></h1>
+<hr>
 
 <!-- Finish Section -->
 <a href="#">
