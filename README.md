@@ -30,67 +30,245 @@
         style="max-width: 80%; height: auto;" 
     />
 </p>
+
+<hr>
+<h3>
+    <p align="center">
+        <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 20px alt="Skills">
+        &nbsp;<b font-size="">My Skill Sets</b>
+    </p>
+</h3>
 <hr>
 
-<!-- Developer Tagline -->
-<h3 align="center">A Passionate Front-End Developer from Peru</h3>
-<img 
-    align="right" 
-    alt="Coding" 
-    width="380" 
-    height="370" 
-    src="https://kaalratribusiness.com/public/images/misc/software-development-in%20kaalratribusiness.gif"
-/>
+### Front-End
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=html&perline=8" 
+                alt="HTML" 
+            />
+        </a>
+        <br>HTML
+    </td>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=css&perline=8" 
+                alt="CSS" 
+            />
+        </a>
+        <br>CSS
+    </td>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=js&perline=8" 
+                alt="JavaScript" 
+            />
+        </a>
+        <br>JavaScript
+    </td>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=react&perline=8" 
+                alt="React" 
+            />
+        </a>
+        <br>React
+    </td>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=tailwind&perline=8" 
+                alt="Tailwind" 
+            />
+        </a>
+        <br>Tailwind
+    </td>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=sass&perline=8" 
+                alt="Sass" 
+            />
+        </a>
+        <br>Sass
+    </td>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=figma&perline=8" 
+                alt="Figma" 
+            />
+        </a>
+        <br>Figma
+    </td>
+  </tr>
+</table>
 
-<!-- Personal Info -->
-<p>
-    <img 
-        src="https://komarev.com/ghpvc/?username=jgcamiloaga&label=Profile%20views&color=0e75b6&style=flat" 
-        alt="jgcamiloaga" 
-    />
-</p>
+### Back-End
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=java&perline=8" 
+                alt="Java" 
+            />
+        </a>
+        <br>Java
+    </td>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=php&perline=8" 
+                alt="PHP" 
+            />
+        </a>
+        <br>PHP
+    </td>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=spring&perline=8" 
+                alt="Spring" 
+            />
+        </a>
+        <br>Spring
+    </td>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=nodejs&perline=8" 
+                alt="NodeJS" 
+            />
+        </a>
+        <br>NodeJS
+    </td>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=mongodb&perline=8" 
+                alt="MongoDB" 
+            />
+        </a>
+        <br>MongoDB
+    </td>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=mysql&perline=8" 
+                alt="MySQL" 
+            />
+        </a>
+        <br>MySQL
+    </td>
+  </tr>
+</table>
 
-<ul>
-    <li>💬 Ask me about <strong>Web and database development</strong>.</li>
-    <li>📫 How to reach me: <strong>jgcamiloaga@gmail.com</strong>.</li>
-    <li>⚡ Fun fact: <strong>I think I am disciplined</strong>.</li>
-    <li>🌱 Currently learning <strong>React</strong>.</li>
-</ul>
+### Tools
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=github&perline=8" 
+                alt="Github" 
+            />
+        </a>
+        <br>Github
+    </td>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=git&perline=8" 
+                alt="Git" 
+            />
+        </a>
+        <br>Git
+    </td>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=vscode&perline=8" 
+                alt="VS Code" 
+            />
+        </a>
+        <br>VS Code
+    </td>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=npm&perline=8" 
+                alt="NPM" 
+            />
+        </a>
+        <br>NPM
+    </td>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=notion&perline=8" 
+                alt="Notion" 
+            />
+        </a>
+        <br>Notion
+    </td>
+  </tr>
+</table>
 
-<!-- Social Media Links -->
-<h3 align="left">Connect with Me</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/jgcamiloaga" target="_blank">
-        <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-    </a>
-    <a href="https://twitter.com/jgcamiloaga" target="_blank">
-        <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" />
-    </a> 
-    <a href="https://www.instagram.com/jgcamiloaga/" target="_blank">
-        <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
-    </a>
-    <a href="https://discord.gg/zQw3CBmED6" target="_blank">
-        <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
-    </a>
-</p>
+### Learning
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=python&perline=8" 
+                alt="Python" 
+            />
+        </a>
+        <br>Python
+    </td>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=typescript&perline=8" 
+                alt="TypeScript" 
+            />
+        </a>
+        <br>TypeScript
+    </td>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=astro&perline=8" 
+                alt="Astro" 
+            />
+        </a>
+        <br>Astro
+    </td>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img 
+                src="https://skillicons.dev/icons?i=docker&perline=8" 
+                alt="Docker" 
+            />
+        </a>
+        <br>Docker
+    </td>
+  </tr>
+</table>
 
-<!-- Languages and Tools Section -->
-<h3 align="left">Languages and Tools</h3>
-<p>
-    <a href="https://skillicons.dev">
-        <img 
-            src="https://skillicons.dev/icons?i=css,html,js,java,angular,git,github,vscode&perline=8" 
-            alt="Languages and Tools" 
-        />
-    </a>
-</p>
 
 <!-- Git Activeness Section -->
 <hr>
 <h3>
     <p align="center">
         <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
-        &nbsp;<i><b font-size="">Git Activeness</b></i>
+        &nbsp;<b font-size="">Git Activeness</b>
     </p>
 </h3>
 <hr>
