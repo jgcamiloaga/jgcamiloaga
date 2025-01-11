@@ -275,10 +275,10 @@
 
 <div style="overflow: auto;">
     <p>
-        <img align="left" width="400" height="185" src="https://github-readme-stats.vercel.app/api?username=jgcamiloaga&show_icons=true&theme=dark" alt="GitHub Stats"/>
+        <img align="left" width="45%" height="185" src="https://github-readme-stats.vercel.app/api?username=jgcamiloaga&show_icons=true&theme=dark" alt="GitHub Stats"/>
     </p>
     <p>
-        <img align="right" width="400" height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=jgcamiloaga&theme=dark" alt="GitHub Streak"/>
+        <img align="right" width="45%" height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=jgcamiloaga&theme=dark" alt="GitHub Streak"/>
     </p>
 </div>
 
@@ -291,6 +291,8 @@
 <br>
 <br>
 <br>
+
+<a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgcamiloaga&theme=dark" alt="goldsunshines" /></a>
 
 <hr>
 
