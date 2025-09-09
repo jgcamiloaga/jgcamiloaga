@@ -278,7 +278,7 @@
         <img align="left" width="400" height="185px" src="https://github-readme-stats.vercel.app/api?username=jgcamiloaga&show_icons=true&theme=dark" alt="GitHub Stats"/>
     </p>
     <p>
-      <img src="https://streak-stats.demolab.com?user=jgcamiloaga&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+      <img align="right" width="400" height="185" src="https://streak-stats.demolab.com?user=jgcamiloaga&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
     </p>
 </div>
 
