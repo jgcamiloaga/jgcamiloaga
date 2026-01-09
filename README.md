@@ -21,17 +21,13 @@
     If you have a disruptive idea or an exciting project, I would love to collaborate and make an impact together!
 </p>
 
-<!-- Life Motto Section -->
-<hr>
 <p align="center">
     <img 
         src="https://i.postimg.cc/FzWWr9Kd/Banner.png" 
         alt="Life Motto" 
-        style="max-width: 80%; height: auto;" 
+        style="width: 100%; height: auto;" 
     />
 </p>
-
-<hr>
 <h3>
     <p align="center">
         <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 20px alt="Skills">
@@ -41,6 +37,7 @@
 <hr>
 
 ### Front-End
+
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -110,6 +107,7 @@
 </table>
 
 ### Back-End
+
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -170,6 +168,7 @@
 </table>
 
 ### Tools
+
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -221,6 +220,7 @@
 </table>
 
 ### Learning
+
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -262,7 +262,6 @@
   </tr>
 </table>
 
-
 <!-- Git Activeness Section -->
 <hr>
 <h3>
@@ -273,28 +272,12 @@
 </h3>
 <hr>
 
-<div style="overflow: auto;">
-    <p>
-        <img align="left" width="400" height="185px" src="https://github-readme-stats.vercel.app/api?username=jgcamiloaga&show_icons=true&theme=dark" alt="GitHub Stats"/>
-    </p>
-    <p>
-      <img align="right" width="400" height="185" src="https://streak-stats.demolab.com?user=jgcamiloaga&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-    </p>
+<div style="display: flex; width: 100%;">
+    <img style="width: 50%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=jgcamiloaga&show_icons=true&theme=dark" alt="GitHub Stats"/>
+    <img style="width: 50%; height: 200px;" src="https://streak-stats.demolab.com?user=jgcamiloaga&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph" />
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgcamiloaga&theme=dark" alt="goldsunshines" /></a>
-
-<hr>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jgcamiloaga&theme=github-dark" alt="activity graph" />
 
 <!-- Finish Section -->
 <a href="#">
