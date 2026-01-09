@@ -273,8 +273,8 @@
 <hr>
 
 <div style="display: flex; width: 100%;">
-    <img style="width: 50%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=jgcamiloaga&show_icons=true&theme=dark" alt="GitHub Stats"/>
-    <img style="width: 50%; height: 200px;" src="https://streak-stats.demolab.com?user=jgcamiloaga&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph" />
+    <img style="width: 50%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=jgcamiloaga&show_icons=true&theme=github-dark-blue" alt="GitHub Stats"/>
+    <a href="https://git.io/streak-stats"><img style="width: 50%; height: 200px;" src="https://streak-stats.demolab.com?user=jgcamiloaga&theme=github-dark-blue&border_radius=4.8" alt="GitHub Streak" /></a>
 </div>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jgcamiloaga&theme=github-dark" alt="activity graph" />
