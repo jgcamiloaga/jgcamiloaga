@@ -7,18 +7,20 @@
     />
 </a>
 
-<!-- About Me Section -->
 <hr>
+
 <p>
     My name is <strong>Johann Camiloaga</strong>, but my friends call me <strong>Hann</strong>. I am currently pursuing <em>Systems Engineering</em> at 
     <a href="https://www.utp.edu.pe/" target="_blank">The Technological University of Peru</a>.
 </p>
+
 <p>
-    Passionate about <strong>technology</strong>, I believe in the transformative power of <strong>open source</strong> to turn ideas into accessible and collaborative solutions. 
-    I am constantly seeking opportunities to contribute to innovative projects that create positive change.
+    Passionate about <strong>technology</strong>, I enjoy building scalable solutions, automating processes and exploring how software can solve real-world problems. 
+    I strongly believe in the transformative power of <strong>open source</strong> to create accessible and collaborative solutions.
 </p>
+
 <p>
-    If you have a disruptive idea or an exciting project, I would love to collaborate and make an impact together!
+    I am constantly learning, building and contributing to projects focused on backend development, automation and software architecture.
 </p>
 
 <p align="center">
@@ -28,138 +30,79 @@
         style="width: 100%; height: auto;" 
     />
 </p>
+
+---
+
 <h3>
     <p align="center">
         <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 20px alt="Skills">
-        &nbsp;<b font-size="">My Skill Sets</b>
+        &nbsp;<b>Current Focus</b>
     </p>
 </h3>
+
 <hr>
 
-### Front-End
+<ul>
+    <li>Backend development with Node.js and Java</li>
+    <li>Process automation using Selenium & Playwright</li>
+    <li>Dockerized environments on Linux</li>
+    <li>Scalable and modular backend architectures</li>
+    <li>DevOps-oriented workflows and deployment optimization</li>
+</ul>
+
+---
+
+<h3>
+    <p align="center">
+        ⚙️ <b>Backend & Automation</b>
+    </p>
+</h3>
+
+<hr>
 
 <table align="center">
   <tr>
     <td align="center" width="90">
         <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=html&perline=8" 
-                alt="HTML" 
+            <img
+                src="https://skillicons.dev/icons?i=nodejs&perline=8"
+                alt="NodeJS"
             />
         </a>
-        <br>HTML
+        <br>Node.js
     </td>
     <td align="center" width="90">
         <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=css&perline=8" 
-                alt="CSS" 
-            />
-        </a>
-        <br>CSS
-    </td>
-    <td align="center" width="90">
-        <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=js&perline=8" 
-                alt="JavaScript" 
-            />
-        </a>
-        <br>JavaScript
-    </td>
-    <td align="center" width="90">
-        <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=react&perline=8" 
-                alt="React" 
-            />
-        </a>
-        <br>React
-    </td>
-    <td align="center" width="90">
-        <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=tailwind&perline=8" 
-                alt="Tailwind" 
-            />
-        </a>
-        <br>Tailwind
-    </td>
-    <td align="center" width="90">
-        <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=sass&perline=8" 
-                alt="Sass" 
-            />
-        </a>
-        <br>Sass
-    </td>
-    <td align="center" width="90">
-        <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=figma&perline=8" 
-                alt="Figma" 
-            />
-        </a>
-        <br>Figma
-    </td>
-  </tr>
-</table>
-
-### Back-End
-
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-        <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=java&perline=8" 
-                alt="Java" 
+            <img
+                src="https://skillicons.dev/icons?i=java&perline=8"
+                alt="Java"
             />
         </a>
         <br>Java
     </td>
     <td align="center" width="90">
         <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=php&perline=8" 
-                alt="PHP" 
-            />
-        </a>
-        <br>PHP
-    </td>
-    <td align="center" width="90">
-        <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=spring&perline=8" 
-                alt="Spring" 
+            <img
+                src="https://skillicons.dev/icons?i=spring&perline=8"
+                alt="Spring"
             />
         </a>
         <br>Spring
     </td>
     <td align="center" width="90">
         <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=nodejs&perline=8" 
-                alt="NodeJS" 
+            <img
+                src="https://skillicons.dev/icons?i=python&perline=8"
+                alt="Python"
             />
         </a>
-        <br>NodeJS
+        <br>Python
     </td>
     <td align="center" width="90">
         <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=mongodb&perline=8" 
-                alt="MongoDB" 
-            />
-        </a>
-        <br>MongoDB
-    </td>
-    <td align="center" width="90">
-        <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=mysql&perline=8" 
-                alt="MySQL" 
+            <img
+                src="https://skillicons.dev/icons?i=mysql&perline=8"
+                alt="MySQL"
             />
         </a>
         <br>MySQL
@@ -167,119 +110,135 @@
   </tr>
 </table>
 
-### Tools
+---
+
+<h3>
+    <p align="center">
+        🐳 <b>DevOps & Tools</b>
+    </p>
+</h3>
+
+<hr>
 
 <table align="center">
   <tr>
     <td align="center" width="90">
         <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=github&perline=8" 
-                alt="Github" 
+            <img
+                src="https://skillicons.dev/icons?i=docker&theme=dark"
+                alt="Docker"
             />
         </a>
-        <br>Github
+        <br>Docker
     </td>
     <td align="center" width="90">
         <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=git&perline=8" 
-                alt="Git" 
+            <img
+                src="https://skillicons.dev/icons?i=linux&theme=dark"
+                alt="Linux"
+            />
+        </a>
+        <br>Linux
+    </td>
+    <td align="center" width="90">
+        <a href="https://skillicons.dev">
+            <img
+                src="https://skillicons.dev/icons?i=git&theme=dark"
+                alt="Git"
             />
         </a>
         <br>Git
     </td>
     <td align="center" width="90">
         <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=vscode&perline=8" 
-                alt="VS Code" 
+            <img
+                src="https://skillicons.dev/icons?i=github&theme=dark"
+                alt="GitHub"
             />
         </a>
-        <br>VS Code
+        <br>GitHub
     </td>
     <td align="center" width="90">
         <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=npm&perline=8" 
-                alt="NPM" 
+            <img
+                src="https://skillicons.dev/icons?i=postman&theme=dark"
+                alt="Postman"
             />
         </a>
-        <br>NPM
-    </td>
-    <td align="center" width="90">
-        <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=notion&perline=8" 
-                alt="Notion" 
-            />
-        </a>
-        <br>Notion
+        <br>Postman
     </td>
   </tr>
 </table>
 
-### Learning
+---
+
+<h3>
+    <p align="center">
+        🎨 <b>Frontend</b>
+    </p>
+</h3>
+
+<hr>
 
 <table align="center">
   <tr>
     <td align="center" width="90">
         <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=python&perline=8" 
-                alt="Python" 
+            <img
+                src="https://skillicons.dev/icons?i=react&theme=dark"
+                alt="React"
             />
         </a>
-        <br>Python
+        <br>React
     </td>
     <td align="center" width="90">
         <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=typescript&perline=8" 
-                alt="TypeScript" 
+            <img
+                src="https://skillicons.dev/icons?i=typescript&theme=dark"
+                alt="TypeScript"
             />
         </a>
         <br>TypeScript
     </td>
     <td align="center" width="90">
         <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=astro&perline=8" 
-                alt="Astro" 
+            <img
+                src="https://skillicons.dev/icons?i=tailwind&theme=dark"
+                alt="Tailwind"
             />
         </a>
-        <br>Astro
-    </td>
-    <td align="center" width="90">
-        <a href="https://skillicons.dev">
-            <img 
-                src="https://skillicons.dev/icons?i=docker&perline=8" 
-                alt="Docker" 
-            />
-        </a>
-        <br>Docker
-    </td>
+        <br>Tailwind
+     </td>
   </tr>
 </table>
 
-<!-- Git Activeness Section -->
+---
+
 <hr>
+
 <h3>
     <p align="center">
-        <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
-        &nbsp;<b font-size="">Git Activeness</b>
+        <img 
+            src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" 
+            width="30px" 
+            alt="Git"
+        />
+        &nbsp;<b>Git Activity</b>
     </p>
 </h3>
+
 <hr>
 
-<div style="display: flex; width: 100%;">
-    <img style="width: 50%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=jgcamiloaga&show_icons=true&theme=github-dark-blue" alt="GitHub Stats"/>
-    <a href="https://git.io/streak-stats"><img style="width: 50%; height: 200px;" src="https://streak-stats.demolab.com?user=jgcamiloaga&theme=github-dark-blue&border_radius=4.8" alt="GitHub Streak" /></a>
-</div>
+<p align="center">
+    <img 
+        width="100%" 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=jgcamiloaga&theme=github-dark" 
+        alt="activity graph"
+    />
+</p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jgcamiloaga&theme=github-dark" alt="activity graph" />
+---
 
-<!-- Finish Section -->
 <a href="#">
     <img 
         align="left" 
