@@ -223,7 +223,7 @@
             width="30px" 
             alt="Git"
         />
-        &nbsp;<b>Git Activity</b>
+        &nbsp;<b>Development Activity</b>
     </p>
 </h3>
 
