@@ -15,12 +15,12 @@
 </p>
 
 <p>
-    Passionate about <strong>technology</strong>, I enjoy building scalable solutions, automating processes and designing software that solves real-world problems.
+    Passionate about <strong>technology</strong>, I enjoy building scalable systems, automating workflows and designing software that solves real-world operational problems.
     I strongly believe in the transformative power of <strong>open source</strong> to create accessible and collaborative solutions.
 </p>
 
 <p>
-    Currently focused on backend development, process automation, software architecture and DevOps-oriented workflows.
+    Currently focused on backend engineering, process automation, scalable architectures and DevOps-oriented workflows.
 </p>
 
 <p align="center">
@@ -43,9 +43,9 @@
 </h3>
 
 <ul>
-    <li>Backend development with Node.js and Java</li>
+    <li>Backend engineering with Node.js, TypeScript and Java</li>
     <li>Process automation using Selenium & Playwright</li>
-    <li>Dockerized environments on Linux</li>
+    <li>Automation infrastructure running on Linux environments</li>
     <li>Scalable and modular backend architectures</li>
     <li>API integrations and workflow optimization</li>
     <li>DevOps-oriented deployment and automation workflows</li>
@@ -59,7 +59,7 @@
 
 <p align="center">
     <img 
-        src="https://skillicons.dev/icons?i=nodejs,typescript,java,spring,python,mysql,sequelize&theme=dark" 
+        src="https://skillicons.dev/icons?i=nodejs,typescript,java,python,spring,mysql&theme=dark" 
         alt="Backend Skills"
     />
 </p>
@@ -104,7 +104,7 @@
 </p>
 
 <p align="center">
-    Selenium • Playwright • Web Scraping • REST APIs • Docker • Linux Services
+    Selenium • Playwright • REST APIs • Workflow Automation • Docker • Linux Services • Systemd
 </p>
 
 ---
